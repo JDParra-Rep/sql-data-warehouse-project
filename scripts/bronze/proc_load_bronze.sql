@@ -13,7 +13,7 @@ Parameters:
     This procedure doesn't accept any parameters or return any values.
 
 Usage Example:
-    EXEC bronze.load:bronze;
+    EXEC bronze.load_bronze;
 ==========================================================================================================================================
 */
 
